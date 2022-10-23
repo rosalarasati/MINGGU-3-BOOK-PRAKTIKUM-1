@@ -2,7 +2,7 @@
 
 ## 4.9 PRAKTIKUM
 
-1. Output
+1. Output Mahasiswa
 
 <img src="https://github.com/rosalarasati/MINGGU-3-BOOK-PRAKTIKUM-1/blob/main/data.png">
 
